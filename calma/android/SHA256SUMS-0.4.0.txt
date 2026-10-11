@@ -1,0 +1,2 @@
+81df0054e3bf243f240fee5ee03673b9b599e7db7a6669a2fc57151d5ec1bfcf  calma-claro-0.4.0.apk
+8204df74ff418f0b6c7f0cea5d2030215f5a56470e6594f1c1f2affc50254c7e  calma-oscuro-0.4.0.apk
